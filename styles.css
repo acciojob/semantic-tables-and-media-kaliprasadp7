@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+td, th{
+	border: 1px solid black;
+}
+video{
+	height:200px;
+}
